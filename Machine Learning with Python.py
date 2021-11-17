@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # ---
 # jupyter:
 #   jupytext:
@@ -13,12 +12,6 @@
 #     language: python
 #     name: python3
 # ---
-
-# +
-$pip install jupytext $jupyter notebook --generate-config
-
-출처: https://sexydatadesigner.tistory.com/entry/jupyter-notebook-과-git-연동하기 [Frank and plain, Vingle]
-# -
 
 import numpy as np
 
